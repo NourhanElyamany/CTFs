@@ -13,7 +13,7 @@ I will take the base64 code into a text file to decode it.
 
 A you see we found the flag there. 
 
-<img src="Images/2.png" width=700>
+<img src="Images/3.png" width=700>
 
 
 ` flag : picoCTF{the_m3tadata_1s_modified} `
