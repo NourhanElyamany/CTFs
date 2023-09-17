@@ -1,10 +1,12 @@
 <a href="https://play.picoctf.org/practice/challenge/112?category=4&page=1&solved=0"><h1>tunn3l v1s10n</h1></a>
 
 <h3> The challenge is giving you a file with no type and we can not open it</h3>
-<img src="Images/8.png">
+<img src="Images/8.png" width=200>
 
 First I tried to open the file but it seemed that it has no extenstion, so i used `exiftool` to find his type.
 We can see that the file is `bmp`. 
+
+<img src="Images/9.png width=700>
 
 
 Now we can check if the file header is correct using any hex editor.
