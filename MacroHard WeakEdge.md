@@ -25,4 +25,7 @@ print("".join(hidden))
 ```
 
 The output returned is : ` ZmxhZzogcGljb0NURntEMWRfdV9rbjB3X3BwdHNfcl96MXA1fQ ` 
-Let's decode it using 
+Let's decode it using <a href="https://gchq.github.io/CyberChef/">cyber chef</a>.
+
+<img src="Images/23.png" width=600>
+
