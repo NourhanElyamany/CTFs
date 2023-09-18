@@ -16,7 +16,7 @@ I found a suspicious line in stream number 5 that looks like the same format of 
 <img src="Images/18.png" width=300>
 
 
-using <a href="https://gchq.github.io/CyberChef/">cyber chef</a>, I decoded this line usinf `ROT13`.
+using <a href="https://gchq.github.io/CyberChef/">cyber chef</a>, I decoded this line using `ROT13`.
 and here's the flag.
 
 <img src="Images/19.png" width=400>
