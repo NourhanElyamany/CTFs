@@ -18,7 +18,7 @@ By reading the instruction.txt file, I think it contains encrypted values :
 
 So let's try to decode it using cyberchef. Okay they are decrypted with ROT13.
 
-<img src="Images/27.png" width=400>
+<img src="Images/27.png" width=800>
 
 The value is :
 
@@ -32,7 +32,7 @@ That was the content of the plan file:
 
 Let's use cyberchef to decode it:
 
-<img src="Images/27.png" width=400>
+<img src="Images/27.png" width=800>
 
 The value is :
 ` I USED THE PROGRAM AND HID IT WITH - DUEDILIGENCE . CHECK OUT THE PHOTOS ` 
