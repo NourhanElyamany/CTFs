@@ -32,7 +32,7 @@ That was the content of the plan file:
 
 Let's use cyberchef to decode it:
 
-<img src="Images/27.png" width=800>
+<img src="Images/28.png" width=800>
 
 The value is :
 ` I USED THE PROGRAM AND HID IT WITH - DUEDILIGENCE . CHECK OUT THE PHOTOS ` 
@@ -41,18 +41,18 @@ It is another hint to check the program and the photos.
 
 When I opened the program I found many files that point to steghide. So I think that he used steghide to hide data inside the images.
 
-<img src="Images/28.png" width=400>
+<img src="Images/29.png" width=400>
 
 
 I discovered the three images, and I found that picture3.bmp has the largest size so he may be hiding the data inside it.
 
-<img src="Images/29.png" width=400>
+<img src="Images/30.png" width=400>
 
 
 Let's try to use steghide to extract data from it.
 
 
-<img src="Images/30.png" width=400>
+<img src="Images/31.png" width=400>
 
 
 
@@ -62,13 +62,13 @@ Hmmm It requires password to open it.
 When I read the content of the plan file I didn't get ` WITH - DUEDILIGENCE ` . So let's try to use ` DUEDILIGENCE ` as our password.
 
 
-<img src="Images/31.png" width=400>
+<img src="Images/32.png" width=400>
 
 
 Great! It worked!
 Let's read flag.txt
 
-<img src="Images/32.png" width=400>
+<img src="Images/33.png" width=400>
 
 
 Congratulations! 
